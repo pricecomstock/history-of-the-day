@@ -1,0 +1,321 @@
+{
+    "chosen": {
+        "U1C5WESJG": {
+            "name": "pc", 
+            "subs": [
+                {
+                    "date": "10-06-2016", 
+                    "id": 7, 
+                    "link": "https://en.wikipedia.org/wiki/Four_Policemen", 
+                    "pitch": "An odd idea for world peace proposed by FDR wherein all countries except four would be disarmed.", 
+                    "title": "Four Policemen", 
+                    "type": "Policy"
+                }, 
+                {
+                    "date": "10-08-2016", 
+                    "id": 18, 
+                    "link": "https://en.wikipedia.org/wiki/Manhattan_Project", 
+                    "pitch": "They invented nukes!", 
+                    "title": "The Manhattan Project", 
+                    "type": "Policy"
+                }, 
+                {
+                    "date": "10-12-2016", 
+                    "id": 5, 
+                    "link": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami", 
+                    "pitch": "Modern era disaster. 230k dead.", 
+                    "title": "2004 Indian Ocean Tsunami", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "10-14-2016", 
+                    "id": 4, 
+                    "link": "https://en.wikipedia.org/wiki/Great_Leap_Forward", 
+                    "pitch": "China industrializes too fast and kills between 18 and 46 million of its own people. Oops!", 
+                    "title": "Great Leap Forward", 
+                    "type": "Policy"
+                }, 
+                {
+                    "date": "10-19-2016", 
+                    "id": 6, 
+                    "link": "https://en.wikipedia.org/wiki/1918_flu_pandemic", 
+                    "pitch": "50 to 100 million death toll makes other disasters look like chumps", 
+                    "title": "1918 Flu Pandemic", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "10-24-2016", 
+                    "id": 16, 
+                    "link": "https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack", 
+                    "pitch": "", 
+                    "title": "Tokyo Subway Sarin Attack", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "10-28-2016", 
+                    "id": 1, 
+                    "link": "https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake", 
+                    "pitch": "Deadliest earthquake of all time with 800k death toll", 
+                    "title": "1556 Shaanxi Earthquake", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "11-11-2016", 
+                    "id": 35, 
+                    "link": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens", 
+                    "pitch": "The side of the volcano blew off after bulging outward by several hundred feet", 
+                    "title": "1980 Mount St. Helens Eruption", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "11-16-2016", 
+                    "id": 36, 
+                    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin", 
+                    "pitch": "He wrote, printed, invented, and just generally did whatever. A real jack of all trades", 
+                    "title": "Benjamin Franklin", 
+                    "type": "Person"
+                }
+            ]
+        }, 
+        "U1CBJSAKW": {
+            "name": "jmey94", 
+            "subs": [
+                {
+                    "date": "10-10-2016", 
+                    "id": 3, 
+                    "link": "https://en.wikipedia.org/wiki/Death_of_Adolf_Hitler", 
+                    "pitch": "At least he killed Hitler", 
+                    "title": "Hitler Offs Himself", 
+                    "type": "Person"
+                }
+            ]
+        }, 
+        "U1CCNJK26": {
+            "name": "bass9453", 
+            "subs": [
+                {
+                    "date": "10-13-2016", 
+                    "id": 9, 
+                    "link": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi", 
+                    "pitch": "Really cool guy", 
+                    "title": "Garibaldi", 
+                    "type": "Person"
+                }, 
+                {
+                    "date": "10-17-2016", 
+                    "id": 23, 
+                    "link": "https://en.wikipedia.org/wiki/Eumenes", 
+                    "pitch": "Good buddy o Alexander the great, young prodigy that get killed by his own men", 
+                    "title": "Eumenes", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "10-20-2016", 
+                    "id": 27, 
+                    "link": "https://en.wikipedia.org/wiki/G%C3%B6tz_von_Berlichingen", 
+                    "pitch": "[Fought with an iron hand]", 
+                    "title": "Gotz von Berlichingen", 
+                    "type": "Historical Figure"
+                }, 
+                {
+                    "date": "10-26-2016", 
+                    "id": 29, 
+                    "link": "https://www.youtube.com/watch?v=htw1w8lYQdQ", 
+                    "pitch": "Holy shit", 
+                    "title": "Inejiro Asanuma's assassination", 
+                    "type": "Assassination"
+                }, 
+                {
+                    "date": "11-01-2016", 
+                    "id": 28, 
+                    "link": "https://en.wikipedia.org/wiki/M50_Ontos", 
+                    "pitch": "Cool tiny tank that was used to kill bigger tanks", 
+                    "title": "M50 Ontos", 
+                    "type": "War"
+                }, 
+                {
+                    "date": "11-04-2016", 
+                    "id": 22, 
+                    "link": "https://en.wikipedia.org/wiki/Eumenes", 
+                    "pitch": "", 
+                    "title": "Eumenes", 
+                    "type": "Unspecified"
+                }, 
+                {
+                    "date": "11-09-2016", 
+                    "id": 31, 
+                    "link": "https://en.wikipedia.org/wiki/TempleOS", 
+                    "pitch": "", 
+                    "title": "Templeos", 
+                    "type": "Unspecified"
+                }, 
+                {
+                    "date": "11-14-2016", 
+                    "id": 17, 
+                    "link": "https://en.m.wikipedia.org/wiki/Kek_(mythology)", 
+                    "pitch": "", 
+                    "title": "Kek (Mythology)", 
+                    "type": "Unspecified"
+                }, 
+                {
+                    "date": "11-18-2016", 
+                    "id": 26, 
+                    "link": "https://en.wikipedia.org/wiki/G%C3%B6tz_von_Berlichingen", 
+                    "pitch": "", 
+                    "title": "G\u00f6tz von Berlichingen", 
+                    "type": "Historical Figure"
+                }, 
+                {
+                    "date": "11-21-2016", 
+                    "id": 33, 
+                    "link": "https://en.m.wikipedia.org/wiki/Children%27s_Crusade", 
+                    "pitch": "", 
+                    "title": "Children's Crusade", 
+                    "type": "Haha"
+                }
+            ]
+        }, 
+        "U1CDYJNN4": {
+            "name": "jatoev", 
+            "subs": [
+                {
+                    "date": "10-07-2016", 
+                    "id": 15, 
+                    "link": "https://en.wikipedia.org/wiki/Sykes%E2%80%93Picot_Agreement", 
+                    "pitch": "Massively important agreement after WWI", 
+                    "title": "Sykes-Picot Agreement", 
+                    "type": "Policy"
+                }, 
+                {
+                    "date": "10-11-2016", 
+                    "id": 10, 
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Cannae", 
+                    "pitch": "Roman massacre", 
+                    "title": "Battle of Cannae", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "10-18-2016", 
+                    "id": 11, 
+                    "link": "https://en.wikipedia.org/wiki/Scipio_Africanus", 
+                    "pitch": "3rd greatest general in antiquity. Took over after battle of Cannae", 
+                    "title": "Scipio Africanus", 
+                    "type": "Person"
+                }, 
+                {
+                    "date": "10-25-2016", 
+                    "id": 14, 
+                    "link": "https://en.wikipedia.org/wiki/Alan_Shepard", 
+                    "pitch": "1st American in space", 
+                    "title": "Alan Shepard", 
+                    "type": "Person"
+                }, 
+                {
+                    "date": "10-31-2016", 
+                    "id": 12, 
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Agincourt", 
+                    "pitch": "Inspiration for Henry V play", 
+                    "title": "Battle of Agincourt", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "11-03-2016", 
+                    "id": 13, 
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Vienna", 
+                    "pitch": "Largest cavalry charge in history", 
+                    "title": "Battle of Vienna", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "11-08-2016", 
+                    "id": 30, 
+                    "link": "https://en.wikipedia.org/wiki/Napoleon", 
+                    "pitch": "The first of a possible series regarding Napoleon. I won't submit more articles regarding him until this one is chosen.", 
+                    "title": "Napoleon Bonaparte", 
+                    "type": "Person"
+                }, 
+                {
+                    "date": "11-15-2016", 
+                    "id": 34, 
+                    "link": "https://en.wikipedia.org/wiki/Siege_of_Toulon", 
+                    "pitch": "Where we will begin our series on Napoleon. An early victory for the young officer and for the French in the  Revolutionary Wars.", 
+                    "title": "Siege of Toulon", 
+                    "type": "Battle"
+                }
+            ]
+        }, 
+        "U1CE9719C": {
+            "name": "gunz", 
+            "subs": [
+                {
+                    "date": "10-21-2016", 
+                    "id": 24, 
+                    "link": "https://en.m.wikipedia.org/wiki/Paul_Revere#.22Midnight_Ride.22", 
+                    "pitch": "The British are coming", 
+                    "title": "Paul Revere's Midnight Ride", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "10-27-2016", 
+                    "id": 25, 
+                    "link": "https://en.wikipedia.org/wiki/Norwegian_heavy_water_sabotage", 
+                    "pitch": "Series of raids conducted by British commandos and Norwegian resistance members to destroy a factory that produced heavy water which could be used to make a Nazi nuclear bomb", 
+                    "title": "WWII heavy water raids in Norway", 
+                    "type": "Event"
+                }, 
+                {
+                    "date": "11-02-2016", 
+                    "id": 20, 
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea", 
+                    "pitch": "US Navy smacks the snot outta the Imperial Japanese Navy", 
+                    "title": "Battle of the Philippine Sea", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "11-07-2016", 
+                    "id": 32, 
+                    "link": "https://en.wikipedia.org/wiki/Operation_Praying_Mantis", 
+                    "pitch": "First time since WWII US Navy fights a major surface combatant", 
+                    "title": "Operation Praying Mantis", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "11-10-2016", 
+                    "id": 21, 
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Flamborough_Head", 
+                    "pitch": "French and US naval squadron, led by John Paul Jones, fight a British convoy off of the coast England. Jones, aboard the Bonhomme Richard, fights the HMS Serapis and says the famous line, \"I have not yet begun to fight!\"", 
+                    "title": "1779 Battle of Flamborough Head", 
+                    "type": "Battle"
+                }, 
+                {
+                    "date": "11-17-2016", 
+                    "id": 19, 
+                    "link": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952", 
+                    "pitch": "Although conducted and accomplished by military officers, this is a sort of where the spread of fundamental Islamism begins and how it has become the problem it is today", 
+                    "title": "Egyptian Revolution of 1952", 
+                    "type": "Event"
+                }
+            ]
+        }
+    }, 
+    "meta": {
+        "last_user": "U1CCNJK26", 
+        "post_count": 35, 
+        "second_last_user": "U1CCNJK26", 
+        "sub_count": 37
+    }, 
+    "submissions": {
+        "U1CCNJK26": {
+            "name": "bass9453", 
+            "subs": [
+                {
+                    "id": 37, 
+                    "link": "https://en.wikipedia.org/wiki/Unit_731", 
+                    "pitch": "No one deserves something like this to happen jesus whowhoaoaoa", 
+                    "title": "Unit 731", 
+                    "type": "Reminder That Humans Have The Capability To Be The Most Destructive And Horrible Thing In Existence If Need Or Desire Be."
+                }
+            ]
+        }
+    }
+}
